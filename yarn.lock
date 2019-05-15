@@ -6647,10 +6647,10 @@ rimraf@^2.5.4, rimraf@^2.6.2:
   dependencies:
     glob "^7.0.5"
 
-rollup-pluginutils@^2.4.1:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/rollup-pluginutils/-/rollup-pluginutils-2.4.1.tgz#de43ab54965bbf47843599a7f3adceb723de38db"
-  integrity sha512-wesMQ9/172IJDIW/lYWm0vW0LiKe5Ekjws481R7z9WTRtmO59cqyM/2uUlxvf6yzm/fElFmHUobeQOYz46dZJw==
+rollup-pluginutils@^2.7.0:
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/rollup-pluginutils/-/rollup-pluginutils-2.7.0.tgz#da24a6f99432626160643ac6b087d71684317c4f"
+  integrity sha512-FoP6L1YnMYTAR06Dpq5LE3jJtMwPE6H4VEOqFU23yoziZnqNRSiWcVy6YgEY5PdQB4G7278+8c4TvB0JKS1csA==
   dependencies:
     estree-walker "^0.6.0"
     micromatch "^3.1.10"
